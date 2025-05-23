@@ -8,7 +8,7 @@ namespace TheyCameBefore
 {
     public static class BeforeUtils
     {
-        public static GetTheOnesBefore()
+        public static IEnumerable<T>GetTheOnesBefore(int num, int num_check, I)
         {
             
         }
